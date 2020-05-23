@@ -1238,6 +1238,8 @@ nav.footer-menu-container.nav {
     .header-burger.active > span {
         display: none;
     }
-    
+    .img-header-three {
+        max-width: 310px;
+    }
 }
 
