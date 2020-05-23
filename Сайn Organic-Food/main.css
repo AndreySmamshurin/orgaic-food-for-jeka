@@ -1241,5 +1241,12 @@ nav.footer-menu-container.nav {
     .img-header-three {
         max-width: 310px;
     }
+    .tagline-img {
+        max-width: 450px;
+    }
+    .tagline-text {
+        font-size: 45px;
+        max-width: 275px;
+    }
 }
 
